@@ -7,10 +7,12 @@ Example on using Preact and PHP V8-JS to server-render preact components.
 - PHP v8js Extension: http://php.net/manual/en/book.v8js.php
 
 ## Setup
-
+```
+git clone git@github.com:helloguille/preact-php-server-render-example.git
+cd preact-php-server-render-example
 npm install
 npm run build
-
+```
 ## Explanation
 
 This project consists of two bundles: One for the server (bundle-server) and one for the client (bundle-client). When index.php 
