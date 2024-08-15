@@ -11,6 +11,8 @@ browser level.
 - PHP >5.6
 - PHP v8js Extension: http://php.net/manual/en/book.v8js.php
 - NPM Package manager
+- Webpack
+- Nodejs
 
 ## Setup
 ```
